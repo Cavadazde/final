@@ -1,0 +1,23 @@
+header{
+    padding: 20px;
+    .navbar-wrapper{
+
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        .menuList{
+          ul{
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                gap:20px;
+                
+                li{
+                    color:white
+                }
+            }
+       
+                }
+    }
+
+}

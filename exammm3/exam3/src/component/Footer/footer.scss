@@ -1,0 +1,28 @@
+.footer {
+  padding: 50px;
+  background-color: rgb(34, 34, 34);
+  width: 100%;
+  .restuarant {
+    h3 {
+      color: rgb(201, 194, 194);
+    }
+    p {
+      color: rgb(187, 183, 183);
+    }
+    span{
+        color: rgb(187, 183, 183);
+    }
+  }
+.copyright{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+
+    .copy{
+        color: rgb(187, 183, 183);
+        text-align: center;
+    
+      }
+}
+}
